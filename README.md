@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jueda
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning Vuejs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on front end development
 - 📫 How to reach me ...
 
 <!---
