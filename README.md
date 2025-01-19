@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jueda
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on front end development
-- 📫 How to reach me ...
 
 <!---
 juedash/juedash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
