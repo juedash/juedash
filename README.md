@@ -1,28 +1,76 @@
-Hi 👋 My name is Jueda Sherifi
-==============================
+# 👋 Hi, I’m Jueda Sherifi
 
-Front end developer
--------------------
+## Front End Developer | Vue • Nuxt • TypeScript | Future SAP / ABAP Developer
 
-I am a front developer experienced on VueJS, Nuxtjs, TailwindCSS and TypeScript.
+I build clean, scalable front-end applications with a strong focus on usability, performance, and maintainable code.
 
-* 🌍  I'm based in Munich
-* ✉️  You can contact me at [juedasherifi@gmail.com](mailto:juedasherifi@gmail.com)
-* 🧠  I'm learning ReactJS
-* 🤝  I'm open to collaborating on interesting projects
+Right now, I’m expanding into **ABAP development and the SAP ecosystem**, aiming to bring strong frontend thinking into enterprise software environments.
 
-### Skills
+If you’re building serious business software and need someone who understands both product thinking and engineering discipline, we’ll probably get along well.
 
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
-</p>
+## 💼 What I Bring
 
-### Socials
+- 6+ years in web development (CMS → modern frontend → software products)
+- Strong experience building real production apps with **Vue + TypeScript**
+- Solid understanding of **business-driven software**, not just UI layers
+- Comfortable working in structured, enterprise-style environments
+- Background in **Business Informatics**, so I naturally think in systems and processes
 
-<p align="left"> <a href="https://www.github.com/juedash" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jueda-sherifi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-</p>
+---
 
-### Badges
+## 🛠 Core Stack
 
-<a href="https://github.com/juedash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juedash&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Frontend**
+- Vue.js
+- Nuxt.js
+- TypeScript
+- TailwindCSS
+- JavaScript (ES6+)
+- HTML / CSS
+
+**Backend & Platform Exposure**
+- PHP
+- Laravel (working knowledge)
+- WordPress (ACF, custom themes, integrations)
+
+**Dev & Cloud**
+- Vite
+- AWS
+- DigitalOcean
+- Linux / macOS
+
+---
+
+## 🌱 Current Focus
+
+- ABAP fundamentals and SAP development concepts
+- SAP ecosystem architecture and workflows
+- Enterprise software patterns
+- Large-scale business applications
+
+---
+
+## 🎯 What I’m Looking For
+
+- Frontend roles in product or enterprise teams
+- Opportunities connected to **SAP ecosystem or enterprise platforms**
+- Teams that care about code quality, long-term architecture, and real product impact
+
+---
+
+## 🤝 Open To
+
+- Full-time roles
+- Contract work
+- Collaboration on meaningful products
+
+---
+
+## 📫 Contact
+
+📍 Munich  
+📧 **juedasherifi@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/jueda-sherifi  
+💻 GitHub: https://github.com/juedash
