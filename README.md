@@ -22,7 +22,7 @@ If you’re building serious business software and need someone who understands 
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juedash&layout=compact&langs_count=10&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juedash&layout=compact&langs_count=10)
 
 ---
 
