@@ -20,26 +20,9 @@ If you’re building serious business software and need someone who understands 
 
 ---
 
-## 🛠 Core Stack
+## Top Languages
 
-**Frontend**
-- Vue.js
-- Nuxt.js
-- TypeScript
-- TailwindCSS
-- JavaScript (ES6+)
-- HTML / CSS
-
-**Backend & Platform Exposure**
-- PHP
-- Laravel (working knowledge)
-- WordPress (ACF, custom themes, integrations)
-
-**Dev & Cloud**
-- Vite
-- AWS
-- DigitalOcean
-- Linux / macOS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juedash&layout=compact&langs_count=10&hide=html,css&theme=default)
 
 ---
 
